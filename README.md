@@ -15,6 +15,9 @@
 <h3>  Blogs posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [HNUSTC 编译器14天速通后记](http://z3475.work/rebirth/2022/05/25/HNUSTC-%E7%BC%96%E8%AF%91%E5%99%A814%E5%A4%A9%E9%80%9F%E9%80%9A%E5%90%8E%E8%AE%B0/)
+- [数据库速通笔记](http://z3475.work/rebirth/2022/05/16/database-speedrun/)
+- [Hello World](http://z3475.work/rebirth/2022/05/05/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
