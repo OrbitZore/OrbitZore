@@ -15,6 +15,7 @@
 <h3>  Blogs posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [汇编语言程序设计笔记](http://z3475.work/rebirth/2022/09/19/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0/)
 - [HNUSTC 编译器14天速通后记](http://z3475.work/rebirth/2022/05/25/HNUSTC-%E7%BC%96%E8%AF%91%E5%99%A814%E5%A4%A9%E9%80%9F%E9%80%9A%E5%90%8E%E8%AE%B0/)
 - [数据库速通笔记](http://z3475.work/rebirth/2022/05/16/database-speedrun/)
 - [Hello World](http://z3475.work/rebirth/2022/05/05/hello-world/)
