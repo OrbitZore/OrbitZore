@@ -15,10 +15,11 @@
 <h3>  Blogs posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [数据挖掘速通笔记](http://z3475.work/rebirth/2022/11/20/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E9%80%9F%E9%80%9A%E7%AC%94%E8%AE%B0/)
+- [小项目记录](http://z3475.work/rebirth/2022/11/07/%E5%B0%8F%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/)
 - [汇编语言程序设计笔记](http://z3475.work/rebirth/2022/09/19/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0/)
 - [HNUSTC 编译器14天速通后记](http://z3475.work/rebirth/2022/05/25/HNUSTC-%E7%BC%96%E8%AF%91%E5%99%A814%E5%A4%A9%E9%80%9F%E9%80%9A%E5%90%8E%E8%AE%B0/)
 - [数据库速通笔记](http://z3475.work/rebirth/2022/05/16/database-speedrun/)
-- [Hello World](http://z3475.work/rebirth/2022/05/05/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
