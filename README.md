@@ -15,11 +15,11 @@
 <h3>  Blogs posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [llama2.c笔记](http://z3475.work/rebirth/2025/04/23/llama2%E7%AC%94%E8%AE%B0/)
 - [简单MCP实现](http://z3475.work/rebirth/2025/04/20/%E7%AE%80%E5%8D%95MCP%E5%AE%9E%E7%8E%B0/)
 - [大模型原理和端侧应用](http://z3475.work/rebirth/2024/11/25/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8E%9F%E7%90%86%E5%92%8C%E7%AB%AF%E4%BE%A7%E5%BA%94%E7%94%A8/)
 - [把Ubuntu容器变成可启动的Ubuntu系统](http://z3475.work/rebirth/2024/09/28/%E6%8A%8AUbuntu%E5%AE%B9%E5%99%A8%E5%8F%98%E6%88%90%E5%8F%AF%E5%90%AF%E5%8A%A8%E7%9A%84Ubuntu%E7%B3%BB%E7%BB%9F/)
 - [cmake从入门到完全放弃](http://z3475.work/rebirth/2023/07/31/cmake%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%8C%E5%85%A8%E6%94%BE%E5%BC%83/)
-- [CMU15-445数据库系统&lpar;Spring Lab&rpar;lab笔记](http://z3475.work/rebirth/2023/05/12/CMU15-445%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9Flab%E7%AC%94%E8%AE%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
