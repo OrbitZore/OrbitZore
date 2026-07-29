@@ -4,7 +4,7 @@
 <td>
 <h1> Hi 👋, I'm z3475 </h1>
 
-<h4> A colledge student from China </h4>
+<h4> Compiler and Operator developer. </h4>
 
 <img src="https://komarev.com/ghpvc/?username=orbitzore&label=Profile%20views&color=0e75b6&style=flat" alt="orbitzore" />
 
