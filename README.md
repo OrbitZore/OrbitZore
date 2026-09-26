@@ -76,14 +76,11 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=OrbitZore&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="OrbitZore's stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrbitZore&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/OrbitZore/OrbitZore/output/github-contribution-grid-snake.svg" alt="Contribution snake (light)" width="100%" />
+<br/>
+<img src="./github-metrics.svg" alt="GitHub metrics" width="95%" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=OrbitZore&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E768D&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak stats" width="70%" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrbitZore&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" alt="Activity graph" width="95%" />
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=OrbitZore&theme=github-dark&no-frame=true&column=7&margin-w=4" alt="Trophies" width="100%" />
 
 </div>
 
