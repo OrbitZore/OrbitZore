@@ -24,8 +24,8 @@ jobs:
         with:
           feed_list: "https://z3475.work/atom.xml"
           max_item_count: "5"
-          date_format: "YYYY-MM-DD"
-          template: "- 📝 [$title]($url) — <sub>$date</sub>"
+          date_format: "yyyy-mm-dd"
+          template: "$newline- 📝 [$title]($url) — <sub>$date</sub>"
           retry_count: "8"
           retry_wait_time: "10"
           commit_message: "chore(bot): refresh latest blog posts"
