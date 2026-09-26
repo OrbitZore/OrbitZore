@@ -80,6 +80,8 @@
 <br/>
 <img src="./github-metrics.svg" alt="GitHub metrics" width="95%" />
 <br/>
+<img src="./github-languages.svg" alt="Most used languages" width="95%" />
+<br/>
 <img src="https://streak-stats.demolab.com?user=OrbitZore&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E768D&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak stats" width="70%" />
 
 </div>
