@@ -17,6 +17,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Note: z3475.work uses GeoDNS with rotating CDN edges; some edges
+      # are unreachable from GitHub runners, so retries are required.
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -24,6 +26,8 @@ jobs:
           max_item_count: "5"
           date_format: "YYYY-MM-DD"
           template: "- 📝 [$title]($url) — <sub>$date</sub>"
+          retry_count: "8"
+          retry_wait_time: "10"
           commit_message: "chore(bot): refresh latest blog posts"
 
       # Prevents GitHub from auto-disabling the scheduled workflow
