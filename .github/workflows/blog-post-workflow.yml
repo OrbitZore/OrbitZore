@@ -1,15 +1,32 @@
-name: Latest blog post workflow
+name: Update README with Latest Blog Posts
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every 6 hours (UTC)
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://z3475.work/atom.xml'
+          feed_list: "https://z3475.work/atom.xml"
+          max_item_count: "5"
+          date_format: "YYYY-MM-DD"
+          template: "- 📝 [$title]($url) — <sub>$date</sub>"
+          commit_message: "chore(bot): refresh latest blog posts"
+
+      # Prevents GitHub from auto-disabling the scheduled workflow
+      # after 60 days of repository inactivity
+      - name: Keep workflow alive
+        uses: gautamkrishnar/keepalive-workflow@v2
