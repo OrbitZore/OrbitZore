@@ -9,7 +9,6 @@
 [![Profile views](https://komarev.com/ghpvc/?username=orbitzore&label=Profile+views&color=0e75b6&style=flat-square)](https://github.com/orbitzore)
 [![GitHub followers](https://img.shields.io/github/followers/OrbitZore?label=Followers&style=flat-square&color=blue)](https://github.com/OrbitZore?tab=followers)
 [![Blog](https://img.shields.io/badge/blog-z3475.work-ff69b4?style=flat-square&logo=hexo&logoColor=white)](https://z3475.work)
-[![Codeforces](https://img.shields.io/badge/Codeforces-hnust--z3475-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hnust-z3475)
 
 </div>
 
@@ -21,7 +20,7 @@
 - 🧠 Deep into **compilers (LLVM / RISC-V)**, **AI Operators**, **KV Cache**, **MoE architectures** & **Agent systems**
 - 📝 I write about compilers and LLM internals on my blog → [**z3475.work**](https://z3475.work)
 - 💬 Ask me about **C++**, **LLVM**, **CUDA operators**, **LLM serving**
-- 🏆 ICPC/Codeforces competitor, ACM problem setter mindset
+- 🏆 ICPC competitor, ACM problem setter mindset
 - ⚡ *Forward to AGI.*
 
 ## 🚀 Selected Projects
@@ -92,7 +91,6 @@
 
 [![Blog](https://img.shields.io/badge/Blog-z3475.work-ff69b4?style=for-the-badge&logo=hexo&logoColor=white)](https://z3475.work)
 [![RSS](https://img.shields.io/badge/RSS-Subscribe-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://z3475.work/rss2.xml)
-[![Codeforces](https://img.shields.io/badge/Codeforces-hnust--z3475-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hnust-z3475)
 [![GitHub](https://img.shields.io/badge/GitHub-OrbitZore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrbitZore)
 
 </div>
