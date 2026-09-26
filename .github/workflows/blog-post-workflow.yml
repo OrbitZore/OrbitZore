@@ -30,7 +30,19 @@ jobs:
           retry_wait_time: "10"
           commit_message: "chore(bot): refresh latest blog posts"
 
-      # Prevents GitHub from auto-disabling the scheduled workflow
-      # after 60 days of repository inactivity
-      - name: Keep workflow alive
-        uses: gautamkrishnar/keepalive-workflow@v2
+      # Prevents GitHub from auto-disabling the scheduled workflow after 60
+      # days of repository inactivity (pure-git replacement for the TOS-blocked
+      # gautamkrishnar/keepalive-workflow action)
+      - name: Keep repository active if idle for 50+ days
+        if: github.event_name == 'schedule'
+        run: |
+          LAST=$(git log -1 --format=%ct)
+          NOW=$(date +%s)
+          AGE=$(( (NOW - LAST) / 86400 ))
+          echo "Last commit was $AGE days ago"
+          if [ "$AGE" -ge 50 ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit --allow-empty -m "chore: keep repository active"
+            git push
+          fi
