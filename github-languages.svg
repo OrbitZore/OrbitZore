@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="116" viewBox="0 0 780 116" role="img" aria-label="Most used languages">
+  <style>
+    .lbl { font: 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #24292f; }
+    .pct { fill: #57606a; }
+    @media (prefers-color-scheme: dark) {
+      .lbl { fill: #c9d1d9; }
+      .pct { fill: #8b949e; }
+    }
+  </style>
+  <rect x="0.00" y="0" width="297.35" height="14" rx="4" fill="#f34b7d"><title>C++ 38.1%</title></rect><rect x="297.35" y="0" width="125.66" height="14" rx="4" fill="#3572A5"><title>Python 16.1%</title></rect><rect x="423.01" y="0" width="114.14" height="14" rx="4" fill="#555555"><title>C 14.6%</title></rect><rect x="537.15" y="0" width="109.76" height="14" rx="4" fill="#DA5B0B"><title>Jupyter Notebook 14.1%</title></rect><rect x="646.91" y="0" width="41.28" height="14" rx="4" fill="#DA3434"><title>CMake 5.3%</title></rect><rect x="688.19" y="0" width="38.50" height="14" rx="4" fill="#3178c6"><title>TypeScript 4.9%</title></rect><rect x="726.69" y="0" width="13.45" height="14" rx="4" fill="#89e051"><title>Shell 1.7%</title></rect><rect x="740.14" y="0" width="10.49" height="14" rx="4" fill="#41b883"><title>Vue 1.3%</title></rect><rect x="750.64" y="0" width="29.36" height="14" rx="4" fill="#ebedf0"><title>Other 3.8%</title></rect>
+  <circle cx="7" cy="36" r="5" fill="#f34b7d"/><text x="19" y="40" class="lbl">C++ <tspan class="pct">38.1%</tspan></text><circle cx="202" cy="36" r="5" fill="#3572A5"/><text x="214" y="40" class="lbl">Python <tspan class="pct">16.1%</tspan></text><circle cx="397" cy="36" r="5" fill="#555555"/><text x="409" y="40" class="lbl">C <tspan class="pct">14.6%</tspan></text><circle cx="592" cy="36" r="5" fill="#DA5B0B"/><text x="604" y="40" class="lbl">Jupyter Notebook <tspan class="pct">14.1%</tspan></text><circle cx="7" cy="60" r="5" fill="#DA3434"/><text x="19" y="64" class="lbl">CMake <tspan class="pct">5.3%</tspan></text><circle cx="202" cy="60" r="5" fill="#3178c6"/><text x="214" y="64" class="lbl">TypeScript <tspan class="pct">4.9%</tspan></text><circle cx="397" cy="60" r="5" fill="#89e051"/><text x="409" y="64" class="lbl">Shell <tspan class="pct">1.7%</tspan></text><circle cx="592" cy="60" r="5" fill="#41b883"/><text x="604" y="64" class="lbl">Vue <tspan class="pct">1.3%</tspan></text><circle cx="7" cy="84" r="5" fill="#ebedf0"/><text x="19" y="88" class="lbl">Other <tspan class="pct">3.8%</tspan></text>
+</svg>
