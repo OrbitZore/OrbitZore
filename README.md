@@ -37,13 +37,7 @@
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- 📝 [LLVM RISC-V 后端：从 IR 到 MIR 再到汇编](https://z3475.work/reborn/2026/09/22/LLVM-RISC-V%E5%90%8E%E7%AB%AF/) — <sub>2026-09-21</sub>
-- 📝 [LLVM IR 中端 Pass 的设计目标与运行原理](https://z3475.work/reborn/2026/09/15/LLVM-IR%E4%B8%AD%E7%AB%AFPass%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%8E%9F%E7%90%86/) — <sub>2026-09-14</sub>
-- 📝 [Agent原理介绍](https://z3475.work/reborn/2026/09/01/Agent%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D/) — <sub>2026-08-31</sub>
-- 📝 [KV Cache 笔记](https://z3475.work/reborn/2026/08/30/KVCache%E7%AC%94%E8%AE%B0/) — <sub>2026-08-29</sub>
-- 📝 [从llama2到Qwen3.5-MoE，再到DeepSeek-V4-Flash——架构变迁笔记](https://z3475.work/reborn/2026/08/06/%E6%9E%B6%E6%9E%84%E5%8F%98%E8%BF%81%E7%AC%94%E8%AE%B0/) — <sub>2026-08-05</sub>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 📝 [LLVM RISC-V 后端：从 IR 到 MIR 再到汇编](https://z3475.work/reborn/2026/09/22/LLVM-RISC-V%E5%90%8E%E7%AB%AF/) — <sub>YYYY-00-DD</sub>- 📝 [LLVM IR 中端 Pass 的设计目标与运行原理](https://z3475.work/reborn/2026/09/15/LLVM-IR%E4%B8%AD%E7%AB%AFPass%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%8E%9F%E7%90%86/) — <sub>YYYY-00-DD</sub>- 📝 [Agent原理介绍](https://z3475.work/reborn/2026/09/01/Agent%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D/) — <sub>YYYY-00-DD</sub>- 📝 [KV Cache 笔记](https://z3475.work/reborn/2026/08/30/KVCache%E7%AC%94%E8%AE%B0/) — <sub>YYYY-00-DD</sub>- 📝 [从llama2到Qwen3.5-MoE，再到DeepSeek-V4-Flash——架构变迁笔记](https://z3475.work/reborn/2026/08/06/%E6%9E%B6%E6%9E%84%E5%8F%98%E8%BF%81%E7%AC%94%E8%AE%B0/) — <sub>YYYY-00-DD</sub><!-- BLOG-POST-LIST:END -->
 
 > ↻ Auto-refreshed every 6 hours by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) · [📜 RSS](https://z3475.work/rss2.xml)
 
