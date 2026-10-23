@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Working on **LLM inference & AI infrastructure** at `EVAS Intelligence Co.,Ltd`
+- 🔭 Working on **AI Compiler** at `SpacemiT Hangzhou Technology, Co.`
 - 🧠 Deep into **compilers (LLVM / RISC-V)**, **AI Operators**, **KV Cache**, **MoE architectures** & **Agent systems**
 - 📝 I write about compilers and LLM internals on my blog → [**z3475.work**](https://z3475.work)
 - 💬 Ask me about **C++**, **LLVM**, **CUDA operators**, **LLM serving**
